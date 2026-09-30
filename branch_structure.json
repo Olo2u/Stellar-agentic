@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "ci/345-zk-solvency-proof-build",
+    "dependabot/cargo/zk/soroban-sdk-28.0.0",
+    "dependabot/npm_and_yarn/react-ecosystem-77650c1f00",
+    "dependabot/npm_and_yarn/stellar-sdk-131e60348a",
+    "dependabot/npm_and_yarn/types/node-26.6.3",
+    "dependabot/npm_and_yarn/typescript-tooling-b8ab7232a8",
+    "dependabot/npm_and_yarn/workspace-tooling-ed41df24d1",
+    "main"
+  ],
+  "parent": {
+    "ci/345-zk-solvency-proof-build": "main",
+    "dependabot/cargo/zk/soroban-sdk-28.0.0": "main",
+    "dependabot/npm_and_yarn/react-ecosystem-77650c1f00": "main",
+    "dependabot/npm_and_yarn/stellar-sdk-131e60348a": "main",
+    "dependabot/npm_and_yarn/types/node-26.6.3": "main",
+    "dependabot/npm_and_yarn/typescript-tooling-b8ab7232a8": "main",
+    "dependabot/npm_and_yarn/workspace-tooling-ed41df24d1": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "ci/345-zk-solvency-proof-build",
+    "dependabot/cargo/zk/soroban-sdk-28.0.0",
+    "dependabot/npm_and_yarn/react-ecosystem-77650c1f00",
+    "dependabot/npm_and_yarn/stellar-sdk-131e60348a",
+    "dependabot/npm_and_yarn/types/node-26.6.3",
+    "dependabot/npm_and_yarn/typescript-tooling-b8ab7232a8",
+    "dependabot/npm_and_yarn/workspace-tooling-ed41df24d1"
+  ]
+}
